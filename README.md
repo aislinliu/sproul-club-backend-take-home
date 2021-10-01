@@ -1,6 +1,6 @@
-# Backend take home assignment for sproul.club - Spring 2021
+# Backend take home assignment for sproul.club - Fall 2022
 
-## Due Date: Sunday, 2/21 11:59 AM PST (Noon)
+## Due Date: Sunday, 10/3 11:59 PM PST
 
 <!-- MarkdownTOC autolink="true" -->
 
@@ -80,4 +80,4 @@ You may use any extra tools, frameworks, generators, and/or dependencies to fini
 
 ## Submitting your work
 When you're done, publish your code as a public repository on GitHub or any other preferred Git platform and email the link
-to tejashah88@gmail.com. If you added any extra dependencies, be sure to add them to the requirements.txt with `pip freeze > requirements.txt`.
+to aislinliu@berkeley.edu. If you added any extra dependencies, be sure to add them to the requirements.txt with `pip freeze > requirements.txt`.
